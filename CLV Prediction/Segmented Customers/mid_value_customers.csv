@@ -1,0 +1,13 @@
+Customer ID,Recency,Recency_Cluster,Frequency,Frequency_Cluster,Revenue,Revenue_Cluster,Overall Score,m6_Revenue,CLV_Cluster,Segment_High-Value,Segment_Mid-Value,Predicted_CLV,CLV_Segment
+17450.0,7,3,351,1,534.14,2,6,591.52,1,True,False,1,Mid-Value
+18102.0,0,3,433,1,592.24,2,6,545.22,1,True,False,1,Mid-Value
+17949.0,0,3,79,0,667.73,2,5,713.43,1,True,False,1,Mid-Value
+17857.0,2,3,56,0,477.92,2,5,487.6,1,True,False,1,Mid-Value
+16308.0,37,3,4,0,640.0,2,5,800.0,1,True,False,1,Mid-Value
+16041.0,30,3,6,0,527.73,2,5,527.73,1,True,False,1,Mid-Value
+16986.0,29,3,3,0,624.4,2,5,624.4,1,True,False,1,Mid-Value
+17723.0,126,2,10,0,327.64,2,4,505.92,1,False,True,1,Mid-Value
+17553.0,129,2,2,0,743.8,2,4,743.8,1,False,True,1,Mid-Value
+18080.0,18,3,2,0,615.75,2,5,390.0,0,True,False,1,Mid-Value
+17948.0,146,1,1,0,358.56,2,3,358.56,0,False,True,1,Mid-Value
+17846.0,84,2,1,0,2033.1,3,5,2033.1,2,True,False,1,Mid-Value

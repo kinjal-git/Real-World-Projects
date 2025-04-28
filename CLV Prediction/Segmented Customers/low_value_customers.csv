@@ -1,0 +1,27 @@
+Customer ID,Recency,Recency_Cluster,Frequency,Frequency_Cluster,Revenue,Revenue_Cluster,Overall Score,m6_Revenue,CLV_Cluster,Segment_High-Value,Segment_Mid-Value,Predicted_CLV,CLV_Segment
+15389.0,171,1,1,0,500.0,2,3,500.0,1,False,True,0,Low-Value
+16684.0,3,3,281,1,234.49,2,6,296.39,0,True,False,0,Low-Value
+17396.0,38,3,27,0,271.51,2,5,288.89,0,True,False,0,Low-Value
+15769.0,6,3,147,0,352.54,2,5,244.4,0,True,False,0,Low-Value
+12931.0,21,3,102,0,328.07,2,5,340.51,0,True,False,0,Low-Value
+14145.0,46,3,12,0,262.35,2,5,252.45,0,True,False,0,Low-Value
+16671.0,27,3,6,0,282.04,2,5,282.04,0,True,False,0,Low-Value
+17317.0,45,3,11,0,229.46,2,5,229.46,0,True,False,0,Low-Value
+15524.0,24,3,1,0,440.0,2,5,440.0,0,True,False,0,Low-Value
+14424.0,17,3,1,0,322.08,2,5,322.08,0,True,False,0,Low-Value
+14045.0,108,2,6,0,276.62,2,4,408.0,0,False,True,0,Low-Value
+15299.0,66,2,12,0,315.59,2,4,284.8,0,False,True,0,Low-Value
+13848.0,91,2,5,0,251.0,2,4,320.0,0,False,True,0,Low-Value
+13027.0,113,2,26,0,265.85,2,4,279.27,0,False,True,0,Low-Value
+15797.0,112,2,8,0,275.92,2,4,367.2,0,False,True,0,Low-Value
+12823.0,74,2,5,0,351.9,2,4,382.5,0,False,True,0,Low-Value
+16182.0,71,2,28,0,236.34,2,4,227.81,0,False,True,0,Low-Value
+17029.0,110,2,2,0,358.0,2,4,358.0,0,False,True,0,Low-Value
+15118.0,133,2,1,0,244.8,2,4,244.8,0,False,True,0,Low-Value
+12917.0,127,2,2,0,297.0,2,4,297.0,0,False,True,0,Low-Value
+18251.0,86,2,16,0,269.67,2,4,269.67,0,False,True,0,Low-Value
+17347.0,85,2,1,0,228.96,2,4,228.96,0,False,True,0,Low-Value
+14887.0,78,2,6,0,310.33,2,4,310.33,0,False,True,0,Low-Value
+16881.0,66,2,1,0,432.0,2,4,432.0,0,False,True,0,Low-Value
+16737.0,52,2,1,0,417.6,2,4,417.6,0,False,True,0,Low-Value
+12980.0,155,1,24,0,295.5,2,3,259.54,0,False,True,0,Low-Value

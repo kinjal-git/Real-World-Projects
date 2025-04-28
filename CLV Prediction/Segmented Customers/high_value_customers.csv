@@ -1,0 +1,3 @@
+Customer ID,Recency,Recency_Cluster,Frequency,Frequency_Cluster,Revenue,Revenue_Cluster,Overall Score,m6_Revenue,CLV_Cluster,Segment_High-Value,Segment_Mid-Value,Predicted_CLV,CLV_Segment
+16333.0,7,3,45,0,591.71,2,5,1199.24,2,True,False,2,High-Value
+16532.0,17,3,4,0,1687.2,3,6,1612.8,2,True,False,2,High-Value
