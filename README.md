@@ -31,9 +31,8 @@ There are two **Real World Projects** attached in this repository.
 ## 📂 Files Included for Project 1
 1. `Customer Lifetime Value Prediction Model.ipynb`: Python notebook along with Trained model + visualizations.
 2. `Segmented Customers.csv`: Final CLV prediction in CSV file.
-3. `customer_segmentation.csv`: Dataset used for CLV Prediction.
-4. `Project Report.pdf`: Project report for CLV Prediction Model.
-5. `README.md`: This file.
+3. `Project Report.pdf`: Project report for CLV Prediction Model.
+4. `README.md`: This file.
 
 ---
 
@@ -42,5 +41,4 @@ There are two **Real World Projects** attached in this repository.
 2. `Airbnb Dashboard.twb`: Tableau dashboard with filters.
 3. `Airbnb Dashboard.png`: Image of Airbnb Dashboard.
 4. `Business Insights.pdf`: Final PDF with suggestions.
-5. `Airbnb_data.csv`: Dataset used for Airbnb Dynamic Pricing Recommendation System.
-6. `README.md`: This file.
+5. `README.md`: This file.
